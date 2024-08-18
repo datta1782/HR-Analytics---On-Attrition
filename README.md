@@ -1,4 +1,4 @@
-## Project Overview 
+# Project Overview 
 This repository contains a Power BI dashboard focused on HR Analytics with an emphasis on Employee Attrition. The goal of this project is to analyze employee turnover patterns, provide actionable insights, and create a visual representation of key HR metrics to assist organizations in improving retention strategies.
 
 # Key Features
