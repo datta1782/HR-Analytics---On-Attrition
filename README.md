@@ -18,3 +18,7 @@ Attrition by Job Role and Age Group: Provides insights into how job roles and ag
 Power BI: Used for data visualization and dashboard creation.
 Microsoft Excel: Employed for initial data cleaning and processing.
 Power BI Functions: Leveraged built-in functions like "Detect Data Type" for data preparation.
+
+# Dashboard
+![HR Alalytics Dashboard](https://github.com/user-attachments/assets/e50887bb-ac48-413c-90ed-2bb72e5e96dc)
+
